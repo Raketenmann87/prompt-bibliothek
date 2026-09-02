@@ -43,6 +43,10 @@ Noch nicht dokumentiert.
 - Ein Suchfeld über der Liste, sobald mehr als zehn Prompts darin stehen.
 - Eine ordentliche Installationsanleitung.
 
+## Team
+
+Annett, Björn
+
 ## Lizenz
 
 MIT, siehe [LICENSE](LICENSE).
